@@ -4,8 +4,9 @@
 
 **Author:** Padma Michela Ricca  
 **Institution:** University College London (UCL)  
-**Degree:** MSc Artificial Intelligence for Biomedicine and Healthcare
+**Degree:** MSc Artificial Intelligence for Biomedicine and Healthcare  
 **Module:** COMP0188 (Deep Representations and Learning)  
+**Academic Year:** 2025/2026  
 **Assessment Outcome:** 79% (Distinction)  
 **Overall Module Mark:** 75.10% (Distinction)  
 **Project Type:** Deep learning, medical image classification and model evaluation project
