@@ -6,8 +6,8 @@
 **Institution:** University College London (UCL)  
 **Degree:** MSc Artificial Intelligence for Biomedicine and Healthcare
 **Module:** COMP0188 (Deep Representations and Learning)  
-**Assessment Outcome:** 79% (Distinction-level)  
-**Overall Module Mark:** 75.10% (Distinction-level)  
+**Assessment Outcome:** 79% (Distinction)  
+**Overall Module Mark:** 75.10% (Distinction)  
 **Project Type:** Deep learning, medical image classification and model evaluation project
 
 ## Project Overview
